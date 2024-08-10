@@ -1849,10 +1849,6 @@ MonoBehaviour:
   Origin: {fileID: 43658772}
   Greenpoint: {fileID: 599718451}
   SpotLight: {fileID: 1871090600}
-  testCube: {fileID: 4652621539032324588}
-  redMat: {fileID: 2100000, guid: d1197296c0267604fadddfe70dc905af, type: 2}
-  blueMat: {fileID: 2100000, guid: a4fa0b1137901e245a2e0956679827f5, type: 2}
-  greenMat: {fileID: 2100000, guid: 365bf0fed9f945145be4d533da8c3428, type: 2}
 --- !u!1 &1521958787
 GameObject:
   m_ObjectHideFlags: 0
@@ -1869,7 +1865,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!65 &1521958788
 BoxCollider:
   m_ObjectHideFlags: 0
